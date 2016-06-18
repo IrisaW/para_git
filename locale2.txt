@@ -1,1 +1,1 @@
-Some locale information
+Some locale 
